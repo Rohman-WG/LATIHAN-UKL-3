@@ -1,0 +1,3 @@
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/81ef3e0f-0ed0-4238-ad17-525b0dbf4cab" />
+faktorial adalah sebual bilangan yang di hitung dari 1 hingga angka yang di sebutkan, semisal 6! jadi kita harus menulis dari 1x2x3 hingga seterus nya
+harus menggunakan long kalau tidak akan terdefinisikan atau tampil dalam output karena jumlah dari bilangan faktorial melebihi dari kapasitas int,tapi untuk long memiliki batasan hingga angka 50 keatasa karena itu sudah melebihi dari daya tampung long itu sendiri maka dari itu kita bisa memakai BigInterger untuk big int ini bisa menampung angka yang sangat besar.
